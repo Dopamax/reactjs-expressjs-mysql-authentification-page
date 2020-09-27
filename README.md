@@ -1,12 +1,10 @@
 ## Instruction to configuration:
 
+#### import the database from "/database/base_users.sql"
+
 #### Launch the front-end with this commande : npm start
 
 #### Launch the server(Nodejs/expressjs) with this commande: node server
-
-#### create a mysql database, and create a new table "my_users" wich have "email":varchar(30), "motdepasse":varchar(20),"nom": varchar(20).
-
-#### Dont forget to change in server.js the database name to your database name.(To connect database to Nodejs (server.js))
 
 #### That's all.
 
