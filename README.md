@@ -8,6 +8,8 @@
 
 #### Dont forget to change in server.js the database name to your database name.(To connect database to Nodejs (server.js))
 
+#### That's all.
+
 ## Secondary informations
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
