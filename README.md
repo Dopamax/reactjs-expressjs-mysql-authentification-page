@@ -1,6 +1,6 @@
 ## Instruction to configuration:
 
-#### import the database from "/database/base_users.sql"
+#### import the database from the folder "/database/base_users.sql"
 
 #### Launch the front-end with this commande : npm start
 
